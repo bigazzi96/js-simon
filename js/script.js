@@ -17,3 +17,7 @@ while (numberRandom.length < 5) {
 
 console.log(numberRandom);
 alert(numberRandom);
+
+
+//funzione per avviare il timer di 30 secondi
+setTimeout(function () {
